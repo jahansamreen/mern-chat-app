@@ -1,7 +1,7 @@
 # Chatties
 
 Chatties is a Full Stack Chatting App.
-Uses Socket.iofor real time communication and stores user details in encrypted format in Mongo DB Database.
+Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 
 # Tech Stack
 
