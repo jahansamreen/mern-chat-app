@@ -1,4 +1,15 @@
-# MERN-CHAT-APP
+# Chatties
+
+Chatties is a Full Stack Chatting App.
+Uses Socket.iofor real time communication and stores user details in encrypted format in Mongo DB Database.
+
+# Tech Stack
+
+**Client:** React JS
+
+**Server:** Node JS, Express JS
+
+**Database:** Mongo DB
 
 
 ![](https://github.com/jahansamreen/mern-chat-app/blob/master/Screenshots/group%20notif.jpeg)
